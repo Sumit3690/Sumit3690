@@ -60,7 +60,7 @@
 <hr>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Sumit3690" alt="Sumit3690" />
+        <img src="https://github-profile-trophy.vercel.app/?username=sumitvishwakarma3690" alt="sumitvishwakarma3690" />
     </a>
 </p>
 
@@ -69,13 +69,13 @@
 <h2><img src="https://media1.tenor.com/m/6sDG5IMoc0wAAAAC/business-chart.gif" alt="growth" width="65px" height="60px"> Github Stats</h2>
 <hr>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumit3690&show_icons=true&locale=en&layout=compact" alt="Sumit3690" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitvishwakarma3690&show_icons=true&locale=en&layout=compact" alt="sumitvishwakarma3690" />
 </p>
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumit3690&show_icons=true&locale=en" alt="Sumit3690" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitvishwakarma3690&show_icons=true&locale=en" alt="sumitvishwakarma3690" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit3690&" alt="Sumit3690" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitvishwakarma3690&" alt="sumitvishwakarma3690" />
 </p>
 
 <br>
@@ -86,7 +86,7 @@
 
 ###
 
-<p align="left">⛓️‍💥NETFLIX-CLONE: https://github.com/Sumit3690/PROJECT-NETFLIX<br>⛓️‍💥AMAZON-CLONE: https://github.com/Sumit3690/PROJECT-AMAZON</p>
+<p align="left">⛓️‍💥NETFLIX-CLONE: https://github.com/sumitvishwakarma3690/PROJECT-NETFLIX<br>⛓️‍💥AMAZON-CLONE: https://github.com/sumitvishwakarma3690/PROJECT-AMAZON</p>
 
 ###
 
