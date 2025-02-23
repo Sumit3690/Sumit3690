@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Full-Stack Web Development and JAVA<br>🎯 Goals: To become a successful Web Developer<br>🎲 Fun fact: I am to honest with development.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Full-Stack Web Development and JAVA<br>🎯 Goals: To become a successful Web Developer<br>🎲 Fun fact: I am to honest with development.</p>
 
 ###
 
